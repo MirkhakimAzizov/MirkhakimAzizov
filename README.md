@@ -1,12 +1,12 @@
 ### Hi, I'm Mirkhakim Azizov 
 ### <ul style="display:  flex; gap: 20px; align-items: center; list-style: none;" class="list">
-        <li class="list--item">
-            <a style="width: 180px; display: flex; align-items: center; background-color: aqua; text-decoration: none; color: white; background: radial-gradient(circle, rgba(19,14,88,1) 1%, rgba(13,37,112,1) 21%, rgba(98,120,191,1) 100%, rgba(0,212,255,1) 100%); box-shadow: 0px 2px 7px 2px rgba(34, 60, 80, 0.2);"
-                href="https://t.me/MirhakimAzizov">
-                <img style="width: 50px;" src="https://static.cdnlogo.com/logos/t/23/telegram.png" alt="Telegram logo"> TELEGRAM
-            </a>
-            <br>
-            <a style="width: 180px; padding: 7.5px 0; display: flex; align-items: center; background-color: aqua; text-decoration: none; color: white; background: radial-gradient(circle, rgba(19,14,88,1) 1%, rgba(13,37,112,1) 21%, rgba(98,120,191,1) 100%, rgba(0,212,255,1) 100%); box-shadow: 0px 2px 7px 2px rgba(34, 60, 80, 0.2);"
+###     <li class="list--item">
+###         <a style="width: 180px; display: flex; align-items: center; background-color: aqua; text-decoration: none; color: white; background: radial-gradient(circle, rgba(19,14,88,1) 1%, rgba(13,37,112,1) 21%, rgba(98,120,191,1) 100%, rgba(0,212,255,1) 100%); box-shadow: 0px 2px 7px 2px rgba(34, 60, 80, 0.2);"
+###                href="https://t.me/MirhakimAzizov">
+###                <img style="width: 50px;" src="https://static.cdnlogo.com/logos/t/23/telegram.png" alt="Telegram logo"> TELEGRAM
+###            </a>
+###            <br>
+ ###           <a style="width: 180px; padding: 7.5px 0; display: flex; align-items: center; background-color: aqua; text-decoration: none; color: white; background: radial-gradient(circle, rgba(19,14,88,1) 1%, rgba(13,37,112,1) 21%, rgba(98,120,191,1) 100%, rgba(0,212,255,1) 100%); box-shadow: 0px 2px 7px 2px rgba(34, 60, 80, 0.2);"
                 href="https://instagram.com/MirhakimAzizov">
                 <img style="width: 35px; padding: 0 7.5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Telegram logo"> INSTAGRAM
             </a>
