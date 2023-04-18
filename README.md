@@ -16,6 +16,8 @@
 <!-- ![emailto:azizov.mirkhakimjon@gmail.com](https://img.shields.io/badge/-azizov.mirkhakimjon@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/MirhakimAzizov) -->
 
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D5497%26project%3D%26in%3D0)](https://codetime.dev)
+<!-- [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D5497%26project%3D%26in%3D0)](https://codetime.dev) -->
 
 
 <!-- ### 📈 GitHub Activity Graph:
