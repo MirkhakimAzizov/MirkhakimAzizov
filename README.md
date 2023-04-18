@@ -1,6 +1,5 @@
-@@ -1,35 +1,35 @@
-##  Mukhriddin Khodiev | JavaScript developer
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer;I'm+a+VUE+JS+Developer;I'm+a+Angular+JS+Developer;I'm+a+Laravel+Developer)
+##  Mirkhakim Azizov | JavaScript developer
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer;I'm+a+Cpp+Developer)
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/mukhriddinweb)
 [![Youtube](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/c/MUKHRIDDINKHODIEV)
