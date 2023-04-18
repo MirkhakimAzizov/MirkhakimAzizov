@@ -13,11 +13,11 @@
 ### Contact With Me
 <!-- ### Contact With Me -->
 
-<!-- ![emailto:azizov.mirkhakimjon@gmail.com](https://img.shields.io/badge/-azizov.mirkhakimjon@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
+![emailto:azizov.mirkhakimjon@gmail.com](https://img.shields.io/badge/-azizov.mirkhakimjon@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/MirhakimAzizov) -->
 
-[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D5497%26project%3D%26in%3D0)](https://codetime.dev)
-<!-- [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D5497%26project%3D%26in%3D0)](https://codetime.dev) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirkhakimAzizov&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirkhakimAzizov&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 
 <!-- ### 📈 GitHub Activity Graph:
