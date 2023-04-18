@@ -18,10 +18,10 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirkhakimAzizov&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirkhakimAzizov&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirkhakimAzizov&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirkhakimAzizov&langs_count=8&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirkhakimAzizov&langs_count=8&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirkhakimAzizov&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirkhakimAzizov&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D5497%26project%3D%26in%3D0)](https://codetime.dev)
 <!-- [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D5497%26project%3D%26in%3D0)](https://codetime.dev) -->
